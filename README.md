@@ -1,3 +1,5 @@
+# Chrome Extension - Envato Preview Bar Remove
+
 ## Installing
 
 First Download or clone this repository
