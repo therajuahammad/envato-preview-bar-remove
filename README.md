@@ -12,5 +12,5 @@ First Download or clone this repository
 - Access `chrome://extensions/`
 - Check Developer mode
 - Click on Load unpacked extension
-- Select the build folder.
+- Select the clone or download folder.
 - Happy hacking.
