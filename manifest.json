@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Envato Preview Bar Remove",
+  "version": "1.0.0",
+  "description": "Hacks Envato Preview Bar",
+  "content_scripts": [
+    {
+      "matches": ["*://preview.themeforest.net/*"],
+      "js": ["scripts.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" }
+}
