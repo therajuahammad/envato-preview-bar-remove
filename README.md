@@ -1,5 +1,9 @@
 # Chrome Extension - Envato Preview Bar Remove
 
+## Preview
+
+![Preview](https://github.com/therajuahammad/envato-preview-bar-remove/blob/master/demo.jpg?raw=true)
+
 ## Installing
 
 First Download or clone this repository
