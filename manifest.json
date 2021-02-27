@@ -3,6 +3,7 @@
   "name": "Envato Preview Bar Remove",
   "version": "1.0.0",
   "description": "Hacks Envato Preview Bar",
+  "incognito": "split",
   "content_scripts": [
     {
       "matches": ["*://preview.themeforest.net/*"],
